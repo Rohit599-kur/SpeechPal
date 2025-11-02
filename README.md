@@ -92,10 +92,11 @@ If speech recognition doesn’t work:
 
 ## 👨‍💻 Author
 
-**Developed by:** ROHIT  
-**Role:** B.Tech in Artificial Intelligence & Data Science
-**GitHub:** github.com/rohit7303620
-**Email:**  rk3231002@gmail.com
+**Rohit**
+- B.Tech in Artificial Intelligence & Data Science
+- 📧 Email: rk3231002@gmail.com
+
+- 🌐 GitHub: github.com/rohit7303620
 
 ---
 
