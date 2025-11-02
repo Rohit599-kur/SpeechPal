@@ -93,7 +93,7 @@ If speech recognition doesn’t work:
 ## 👨‍💻 Author
 
 **Developed by:** ROHIT  
-**Role:**B.Tech in Artificial Intelligence & Data Science
+**Role:** B.Tech in Artificial Intelligence & Data Science
 **GitHub:** github.com/rohit7303620
 **Email:**  rk3231002@gmail.com
 
